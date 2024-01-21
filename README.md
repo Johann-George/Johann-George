@@ -4,7 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=johann-george&label=Profile%20views&color=0e75b6&style=flat" alt="johann-george" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=johann-george" alt="johann-george" /></a> </p>
 
 - 🔭 I’m currently working on [Library Management system](https://github.com/Johann-George/Library_management_project)
 
