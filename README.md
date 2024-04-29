@@ -5,9 +5,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=johann-george&label=Profile%20views&color=0e75b6&style=flat" alt="johann-george" /> </p>
 
 
-- 🔭 I’m currently working on [Library Management system](https://github.com/Johann-George/Library_management_project)
+- 🔭 I’m currently working on [Emotion Detection using CNN](https://github.com/Johann-George/Emotion_detection_using_CNN)
 
-- 🌱 I’m currently learning **Angular, Java, Mysql**
+- 🌱 I’m currently learning **Machine learning(CNN)**
 
 - 👨‍💻 All of my projects are available at [https://johanngeorge.netlify.app/](https://johanngeorge.netlify.app/)
 
