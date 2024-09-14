@@ -1,13 +1,13 @@
 ![MasterHead](https://www.edu360.com.my/images/banners/coding-banner.png)
 <h1 align="center">Hi 👋, I'm Johann V George</h1>
-<h3 align="center">A full stack web developer from India.</h3>
+<h3 align="center">An AI enthusiast from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=johann-george&label=Profile%20views&color=0e75b6&style=flat" alt="johann-george" /> </p>
 
 
-- 🔭 I’m currently working on [Emotion Detection using CNN](https://github.com/Johann-George/EmotionDetection_using_CNN.git)
+- 🔭 I’m currently working on [RAG for MBCET Website]([https://github.com/Johann-George/RAG-for-mbcet-website.git])
 
-- 🌱 I’m currently learning **Machine learning(CNN)**
+- 🌱 I’m currently learning **Retrievel Augmented Generation**
 
 - 👨‍💻 All of my projects are available at [https://johanngeorge.netlify.app/](https://johanngeorge.netlify.app/)
 
