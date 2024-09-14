@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=johann-george&label=Profile%20views&color=0e75b6&style=flat" alt="johann-george" /> </p>
 
 
-- 🔭 I’m currently working on [RAG for MBCET Website]([https://github.com/Johann-George/RAG-for-mbcet-website.git])
+- 🔭 I’m currently working on [RAG for MBCET Website]([(https://github.com/Johann-George/RAG-for-mbcet-website.git)])
 
 - 🌱 I’m currently learning **Retrievel Augmented Generation**
 
