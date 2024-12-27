@@ -1,6 +1,6 @@
 ![MasterHead](https://www.edu360.com.my/images/banners/coding-banner.png)
 <h1 align="center">Hi 👋, I'm Johann V George</h1>
-<h3 align="center">An Full Stack and AI enthusiast from India.</h3>
+<h3 align="center">A Full Stack and AI enthusiast from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=johann-george&label=Profile%20views&color=0e75b6&style=flat" alt="johann-george" /> </p>
 
