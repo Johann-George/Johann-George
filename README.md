@@ -11,7 +11,7 @@
 
 - 👨‍💻 Some of my projects are available at [https://johanngeorge.netlify.app](https://johanngeorge.netlify.app)
 
-- 💬 Ask me about **C, Java, Python**
+- 💬 Ask me about **C, Java, Python, Selenium and Cucumber**
 
 - 📫 How to reach me **johanngeorge2003@gmail.com**
 
