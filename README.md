@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on [Clinic Management System](https://main.d12c2lov5f3l0d.amplifyapp.com/)
 
-- 🌱 I’m currently learning **Retrievel Augmented Generation**
+- 🌱 I’m currently learning **Generative AI**
 
 - 👨‍💻 Some of my projects are available at [https://johanngeorge.netlify.app](https://johanngeorge.netlify.app)
 
-- 💬 Ask me about **C, Java and Python**
+- 💬 Ask me about **Java, Python and C**
 
 - 📫 How to reach me **johanngeorge2003@gmail.com**
 
