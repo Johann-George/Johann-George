@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=johann-george&label=Profile%20views&color=0e75b6&style=flat" alt="johann-george" /> </p>
 
 
-- 🔭 I’m currently working on [Clinic Management System]([https://main.d12c2lov5f3l0d.amplifyapp.com/](https://github.com/Johann-George/Clinic-Management-System-Backend))
+- 🔭 I’m currently working on [Clinic Management System](https://github.com/Johann-George/Clinic-Management-System-Backend)
 
 - 🌱 I’m currently learning **Generative AI**
 
