@@ -1,4 +1,3 @@
-![MasterHead](https://www.edu360.com.my/images/banners/coding-banner.png)
 <h1 align="center">Hi 👋, I'm Johann V George</h1>
 <h3 align="center">A Full Stack and AI enthusiast from India.</h3>
 
