@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [LazyDev](https://github.com/Johann-George/LazyDev)
 
-- 🌱 I’m currently learning **PEP 8**
+- 🌱 I’m currently learning **Python**
 
 - 👨‍💻 Some of my projects are available at [https://johanngeorge.netlify.app](https://johanngeorge.netlify.app)
 
