@@ -10,7 +10,7 @@
 
 - 👨‍💻 Some of my projects are available at [https://johanngeorge.netlify.app](https://johanngeorge.netlify.app)
 
-- 💬 Ask me about **Java, Python and C**
+- 💬 Ask me about **Java, Python and React**
 
 - 📫 How to reach me **johanngeorge2003@gmail.com**
 
