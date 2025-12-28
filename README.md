@@ -6,11 +6,11 @@
 
 - 🔭 I’m currently working on [Advent of Code'25](https://github.com/Johann-George/Advent-of-Code-25)
 
-- 🌱 I’m currently learning **FastAPI**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 Some of my projects are available at [https://johanngeorge.netlify.app](https://johanngeorge.netlify.app)
 
-- 💬 Ask me about **Java, Python and React**
+- 💬 Ask me about **Python, FastAPI and React**
 
 - 📫 How to reach me **johanngeorge2003@gmail.com**
 
