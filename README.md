@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=johann-george&label=Profile%20views&color=0e75b6&style=flat" alt="johann-george" /> </p>
 
 
-- 🔭 I’m currently working on [Python-Tasks](https://github.com/Johann-George/Python-Tasks)
+- 🔭 I’m currently working on [Advent-of-Code'25](https://github.com/Johann-George/Advent-of-Code-25)
 
 - 🌱 I’m currently learning **React**
 
