@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Advent-of-Code'25](https://github.com/Johann-George/Advent-of-Code-25)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Rust**
 
 - 👨‍💻 Some of my projects are available at [https://johanngeorge.netlify.app](https://johanngeorge.netlify.app)
 
