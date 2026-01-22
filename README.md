@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Selah](https://github.com/Johann-George/Selah)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Reach Native**
 
 - 👨‍💻 Some of my projects are available at [https://johanngeorge.netlify.app](https://johanngeorge.netlify.app)
 
