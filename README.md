@@ -10,7 +10,7 @@
 
 - 👨‍💻 Some of my projects are available at [https://johanngeorge.netlify.app](https://johanngeorge.netlify.app)
 
-- 💬 Ask me about **Python, FastAPI and React**
+- 💬 Ask me about **React, FastAPI and PostgreSQL**
 
 - 📫 How to reach me **johanngeorge2003@gmail.com**
 
