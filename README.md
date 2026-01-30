@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=johann-george&label=Profile%20views&color=0e75b6&style=flat" alt="johann-george" /> </p>
 
 
-- 🔭 I’m currently working on [Selah](https://github.com/Johann-George/Selah)
+- 🔭 I’m currently working on [dotfiles](https://github.com/Johann-George/dotfiles)
 
 - 🌱 I’m currently learning **Reach Native**
 
