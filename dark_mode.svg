@@ -69,7 +69,7 @@ text, tspan {white-space: pre;}
 <tspan x="370" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> .......................... </tspan><tspan class="value">Arch, Ubuntu, Windows 11</tspan>
 <tspan x="370" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> ...................... </tspan><tspan class="value" id="age_data">21 years, 11 months, 13 days</tspan>
 <tspan x="370" y="90" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> .......................... </tspan><tspan class="value">Quadance Technologies</tspan>
-<tspan x="370" y="110" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">LazyVim, VSCode, PyCharm</tspan>
+<tspan x="370" y="110" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> .......................... </tspan><tspan class="value">LazyVim, VSCode, PyCharm</tspan>
 <tspan x="370" y="130" class="cc">. </tspan>
 <tspan x="370" y="150" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> ....... </tspan><tspan class="value">React, Python, Rust</tspan>
 <tspan x="370" y="170" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Markup</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">HTML, CSS, JSON, YAML</tspan>
@@ -81,6 +81,7 @@ text, tspan {white-space: pre;}
 <tspan x="370" y="290">- Contact</tspan> -——————————————————————————————————————————————-—-
 <tspan x="370" y="310" class="cc">. </tspan><tspan class="key">Email</tspan>:<tspan class="cc"> ............................ </tspan><tspan class="value">johanngeorge2003@gmail.com</tspan>
 <tspan x="370" y="330" class="cc">. </tspan><tspan class="key">Instagram</tspan>:<tspan class="cc"> .......................... </tspan><tspan class="value">johxnn_gxorge</tspan>
+<tspan x="370" y="350" class="cc">. </tspan><tspan class="key">Discord</tspan>:<tspan class="cc"> .......................... </tspan><tspan class="value">og_suplex</tspan>
 <tspan x="370" y="350" class="cc">. </tspan>
 <tspan x="370" y="370">- GitHub Stats</tspan> -—————————————————————————————————————————-—-
 <tspan x="370" y="390" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc" id="repo_data_dots"> .... </tspan><tspan class="value" id="repo_data">54</tspan> {<tspan class="key">Contributed</tspan>: <tspan class="value" id="contrib_data">56</tspan>} | <tspan class="key">Stars</tspan>:<tspan class="cc" id="star_data_dots"> ............ </tspan><tspan class="value" id="star_data">24</tspan>
