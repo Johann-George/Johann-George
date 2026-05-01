@@ -81,7 +81,7 @@ text, tspan {white-space: pre;}
 <tspan x="400" y="290">- Contact</tspan> -——————————————————————————————————————————————-—-
 <tspan x="400" y="310" class="cc">. </tspan><tspan class="key">Email</tspan>:<tspan class="cc"> ............................ </tspan><tspan class="value">johanngeorge2003@gmail.com</tspan>
 <tspan x="400" y="330" class="cc">. </tspan><tspan class="key">Instagram</tspan>:<tspan class="cc"> .......................... </tspan><tspan class="value">johxnn_gxorge</tspan>
-<tspan x="370" y="350" class="cc">. </tspan><tspan class="key">Discord</tspan>:<tspan class="cc"> .......................... </tspan><tspan class="value">og_suplex</tspan>
+<tspan x="400" y="350" class="cc">. </tspan><tspan class="key">Discord</tspan>:<tspan class="cc"> .......................... </tspan><tspan class="value">og_suplex</tspan>
 <tspan x="400" y="350" class="cc">. </tspan>
 <tspan x="400" y="370">- GitHub Stats</tspan> -—————————————————————————————————————————-—-
 <tspan x="400" y="390" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc" id="repo_data_dots"> .... </tspan><tspan class="value" id="repo_data">54</tspan> {<tspan class="key">Contributed</tspan>: <tspan class="value" id="contrib_data">56</tspan>} | <tspan class="key">Stars</tspan>:<tspan class="cc" id="star_data_dots"> ............ </tspan><tspan class="value" id="star_data">24</tspan>
