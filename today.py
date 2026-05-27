@@ -1,5 +1,4 @@
 import datetime
-from dateutil import relativedelta
 import requests
 import os
 from lxml import etree
@@ -20,12 +19,31 @@ def daily_readme(birthday):
     Returns the length of time since I was born
     e.g. 'XX years, XX months, XX days'
     """
-    diff = relativedelta.relativedelta(datetime.datetime.today(), birthday)
+    if isinstance(birthday, datetime.datetime):
+        birthday = birthday.date()
+    elif isinstance(birthday, str):
+        birthday = datetime.datetime.fromisoformat(birthday).date()
+    elif not isinstance(birthday, datetime.date):
+        raise TypeError('birthday must be a date, datetime, or ISO-8601 string')
+
+    today = datetime.date.today()
+    years = today.year - birthday.year
+    months = today.month - birthday.month
+    days = today.day - birthday.day
+
+    if days < 0:
+        previous_month = today.replace(day=1) - datetime.timedelta(days=1)
+        days += previous_month.day
+        months -= 1
+    if months < 0:
+        months += 12
+        years -= 1
+
     return '{} {}, {} {}, {} {}{}'.format(
-        diff.years, 'year' + format_plural(diff.years),
-        diff.months, 'month' + format_plural(diff.months),
-        diff.days, 'day' + format_plural(diff.days),
-        ' 🎂' if (diff.months == 0 and diff.days == 0) else '')
+        years, 'year' + format_plural(years),
+        months, 'month' + format_plural(months),
+        days, 'day' + format_plural(days),
+        ' 🎂' if (months == 0 and days == 0) else '')
 
 
 def format_plural(unit):
@@ -447,7 +465,7 @@ if __name__ == '__main__':
     user_data, user_time = perf_counter(user_getter, USER_NAME)
     OWNER_ID, acc_date = user_data
     formatter('account data', user_time)
-    age_data, age_time = perf_counter(daily_readme, datetime.datetime(2002, 5, 12))
+    age_data, age_time = perf_counter(daily_readme, datetime.datetime(2003, 5, 12))
     formatter('age calculation', age_time)
     total_loc, loc_time = perf_counter(loc_query, ['OWNER', 'COLLABORATOR', 'ORGANIZATION_MEMBER'], 7)
     formatter('LOC (cached)', loc_time) if total_loc[-1] else formatter('LOC (no cache)', loc_time)
